@@ -1,3 +1,6 @@
+* 제목 첫 자바 스크립트
+-------------------------
+
 package second;
 
 public class hihi {
